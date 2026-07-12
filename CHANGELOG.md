@@ -14,4 +14,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Long-list overflow modes: continuous scroll or paginated rotation
 - Shared About box and donation banner (Polenta Connection suite UI)
 - Portable and installed deployment modes via `PolentaToDoWallpaper.deploy.json`
-- Settings and todos stored in `settings.json` (local folder or `%LOCALAPPDATA%`)
+- Settings and todos stored in `PolentaToDoWallpaper.settings.json` (local folder or `%LOCALAPPDATA%`)
